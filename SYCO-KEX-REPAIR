@@ -13,4 +13,4 @@ printf "\033[0;33m ########################################################\n"
 printf "\033[0;32m passwd-kex  # to set or change vnc passwd\n"
 printf "\033[0;32m start-kex   # to start vnc server\n"
 printf "\033[0;32m stop-kex    # to stop vnc server\n"
-printf "\033[0;32m if you have any doubt then please \n ask of our telegram channel https://t.me/SYCOX51
+printf "\033[0;32m if you have any doubt then please ask of our telegram channel https://t.me/SYCOX51\n"
